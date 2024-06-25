@@ -2,6 +2,7 @@ use std log
 
 export def main [] {
     let subcrates_wave_1 = [
+        nu-derive-value,
         nu-glob,
         nu-json,
         nu-path,
